@@ -1,0 +1,4 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+controlPlan		TAR	3302	new record size: 3302
+controlPlan	productCharac	NNR	tStatement	CAUTION: item tStatement renamed as productCharac
+controlPlan	processCharac	RUB+		processCharac is a new item

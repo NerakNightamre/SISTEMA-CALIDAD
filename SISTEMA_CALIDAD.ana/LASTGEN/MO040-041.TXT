@@ -1,0 +1,3 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+Nav		TAR	2175	new record size: 2175
+Nav	LevelID	RUB+		LevelID is a new item

@@ -1,0 +1,3 @@
+//MO103-104.TXT ANA00103 TO ANA00104
+MSA_Linarity_Data		TAR	127	new record size: 127
+MSA_Linarity_Data	Data	CNW	String$4-byte int	item Data has a new type: String

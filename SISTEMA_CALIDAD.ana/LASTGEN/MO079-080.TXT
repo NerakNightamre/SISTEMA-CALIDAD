@@ -1,0 +1,2 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+characteristics	Statement	CLEN*		item Statement is now a key

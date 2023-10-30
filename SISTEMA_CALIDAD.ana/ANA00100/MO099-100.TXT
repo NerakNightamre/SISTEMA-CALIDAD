@@ -1,0 +1,14 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+MSA_Linearity_Head		TAR	665	new record size: 665
+MSA_Linearity_Head	Project	RUB+		Project is a new item
+MSA_Linearity_Head	PastNumber	RUB+		PastNumber is a new item
+MSA_Linearity_Head	ProcessName	RUB+		ProcessName is a new item
+MSA_Linearity_Head	characteristic	RUB+		characteristic is a new key
+MSA_Linearity_Head	Intrument	RUB+		Intrument is a new item
+MSA_Linearity_Head	NumberInstrument	RUB+		NumberInstrument is a new item
+MSA_Linearity_Head	Brand	RUB+		Brand is a new item
+MSA_Linearity_Head	Location	RUB+		Location is a new item
+MSA_Linearity_Head	StudyAnalist	RUB+		StudyAnalist is a new item
+MSA_Linearity_Head	StudyDate	RUB+		StudyDate is a new item
+MSA_Linearity_Head	studyExpiration	RUB+		studyExpiration is a new item
+MSA_Linearity_Head	ProcessName	RRN		

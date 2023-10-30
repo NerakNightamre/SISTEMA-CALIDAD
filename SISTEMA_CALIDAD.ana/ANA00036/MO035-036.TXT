@@ -1,0 +1,2 @@
+//MO035-036.TXT ANA00035 TO ANA00036
+controlPlan	nFailureEffect	CLE-*		item nFailureEffect is no longer a key

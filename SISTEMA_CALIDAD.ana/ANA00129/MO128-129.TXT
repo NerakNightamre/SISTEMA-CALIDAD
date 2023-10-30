@@ -1,0 +1,2 @@
+//MO128-129.TXT ANA00128 TO ANA00129
+SpecificationsTemp	characStatement	CLEN*		item characStatement is now a key

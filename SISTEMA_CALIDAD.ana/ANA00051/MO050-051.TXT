@@ -1,0 +1,4 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+Nav	NIVEL	CLEN*		item NIVEL is now a key
+NavSpanish	NIVEL	CLEN*		item NIVEL is now a key
+NavEnglish	NIVEL	CLEN*		item NIVEL is now a key

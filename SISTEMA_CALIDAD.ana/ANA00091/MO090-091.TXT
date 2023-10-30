@@ -1,0 +1,4 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+projects		TAR	81	new record size: 81
+projects	NUMERO	RUB+		NUMERO is a new item
+projects	CREACION	RUB+		CREACION is a new item

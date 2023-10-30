@@ -1,0 +1,5 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+controlPlan		TAR	3149	new record size: 3149
+controlPlan	potentialCause	RUB+		potentialCause is a new item
+controlPlan	characStatement	RUB+		characStatement is a new item
+controlPlan	characValue	RUB+		characValue is a new item

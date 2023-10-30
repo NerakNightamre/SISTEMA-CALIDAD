@@ -1,0 +1,6 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+CATA_ENC_MSA		NFI		new file
+CATA_DET_MSA		NFI		new file
+CATA_DET_OP_A		NFI		new file
+CATA_DET_OP_B		NFI		new file
+CATA_DET_OP_C		NFI		new file

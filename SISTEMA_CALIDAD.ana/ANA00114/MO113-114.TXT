@@ -1,0 +1,26 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+MSA_Stability_Head		TAR	1033	new record size: 1033
+MSA_Stability_Head	Item	RUB+		Item is a new item
+MSA_Stability_Head	itemID	RUB+		itemID is a new item
+MSA_Stability_Head	partNumber	RUB+		partNumber is a new item
+MSA_Stability_Head	partName	RUB+		partName is a new item
+MSA_Stability_Head	Specification	RUB+		Specification is a new item
+MSA_Stability_Head	Tolerance	RUB+		Tolerance is a new item
+MSA_Stability_Head	ProcessDesv	RUB+		ProcessDesv is a new item
+MSA_Stability_Head	Noiterations	RUB+		Noiterations is a new item
+MSA_Stability_Head	DegreesRange	RUB+		DegreesRange is a new item
+MSA_Stability_Head	Confiability	RUB+		Confiability is a new item
+MSA_Stability_Head	Descripion	RUB+		Descripion is a new item
+MSA_Stability_Head	StartDate	RUB+		StartDate is a new item
+MSA_Stability_Head	EndDate	RUB+		EndDate is a new item
+MSA_Stability_Head	MadeBy	RUB+		MadeBy is a new item
+MSA_Stability_Head	Project	RUB-		item Project deleted
+MSA_Stability_Head	PastNumber	RUB-		item PastNumber deleted
+MSA_Stability_Head	ProcessName	RUB-		item ProcessName deleted
+MSA_Stability_Head	Intrument	RUB-		item Intrument deleted
+MSA_Stability_Head	NumberInstrument	RUB-		item NumberInstrument deleted
+MSA_Stability_Head	Brand	RUB-		item Brand deleted
+MSA_Stability_Head	Location	RUB-		item Location deleted
+MSA_Stability_Head	StudyAnalist	RUB-		item StudyAnalist deleted
+MSA_Stability_Head	StudyDate	RUB-		item StudyDate deleted
+MSA_Stability_Head	studyExpiration	RUB-		item studyExpiration deleted

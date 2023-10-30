@@ -1,0 +1,4 @@
+//MO106-107.TXT ANA00106 TO ANA00107
+GRR_Attributes_Head		NFI		new file
+GRR_Attributes_Data		NFI		new file
+GRR_Attributes_Head	ProcessName	RRN		

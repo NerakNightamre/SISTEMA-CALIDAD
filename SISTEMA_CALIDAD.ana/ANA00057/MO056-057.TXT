@@ -1,0 +1,3 @@
+//MO056-057.TXT ANA00056 TO ANA00057
+controlPlan		TAR	3200	new record size: 3200
+controlPlan	test	RUB+		test is a new item

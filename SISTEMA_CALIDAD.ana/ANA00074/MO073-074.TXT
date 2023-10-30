@@ -1,0 +1,3 @@
+//MO073-074.TXT ANA00073 TO ANA00074
+FailureAnalysis		TAR	1337	new record size: 1337
+FailureAnalysis	requirementsValue	RUB+		requirementsValue is a new item

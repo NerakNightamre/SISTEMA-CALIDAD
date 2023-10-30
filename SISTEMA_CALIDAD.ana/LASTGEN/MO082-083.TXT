@@ -1,0 +1,2 @@
+//MO082-083.TXT ANA00082 TO ANA00083
+process		NFI		new file

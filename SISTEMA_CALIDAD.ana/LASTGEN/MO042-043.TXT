@@ -1,0 +1,3 @@
+//MO042-043.TXT ANA00042 TO ANA00043
+controlPlan		TAR	2692	new record size: 2692
+controlPlan	globalID	RUB+		globalID is a new item

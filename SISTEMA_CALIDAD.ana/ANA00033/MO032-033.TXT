@@ -1,0 +1,4 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+controlPlan		TAR	1924	new record size: 1924
+controlPlan	nFailureEffect	CLEN*		item nFailureEffect is now a key
+controlPlan	nFailureEffect	CNW	4-byte int$String	item nFailureEffect has a new type: 4-byte int

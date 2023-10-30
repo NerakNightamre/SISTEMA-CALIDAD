@@ -1,0 +1,7 @@
+//MO051-052.TXT ANA00051 TO ANA00052
+Nav		TAR	3122	new record size: 3122
+Nav	NOMBRE	TAI+	900	new size of item NOMBRE: 1001 instead of 101
+NavSpanish		TAR	3122	new record size: 3122
+NavSpanish	NOMBRE	TAI+	900	new size of item NOMBRE: 1001 instead of 101
+NavEnglish		TAR	3122	new record size: 3122
+NavEnglish	NOMBRE	TAI+	900	new size of item NOMBRE: 1001 instead of 101

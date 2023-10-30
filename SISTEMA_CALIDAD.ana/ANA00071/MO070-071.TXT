@@ -1,0 +1,3 @@
+//MO070-071.TXT ANA00070 TO ANA00071
+controlPlan		TAR	3152	new record size: 3152
+controlPlan	type	RUB+		type is a new item

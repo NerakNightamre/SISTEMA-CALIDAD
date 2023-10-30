@@ -1,0 +1,5 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+NavSpanish		TAR	3127	new record size: 3127
+NavSpanish	projectosID	RUB+		projectosID is a new key
+NavEnglish		TAR	3127	new record size: 3127
+NavEnglish	projectosID	RUB+		projectosID is a new key

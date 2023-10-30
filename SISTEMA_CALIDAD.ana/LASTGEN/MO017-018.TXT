@@ -1,0 +1,2 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+Nav	NOMBRE	CLE-*		item NOMBRE is no longer a key

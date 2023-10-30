@@ -1,0 +1,19 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+CpForm		TAR	1091	new record size: 1091
+CpForm	prototype	RUB+		prototype is a new item
+CpForm	prelaunch	RUB+		prelaunch is a new item
+CpForm	production	RUB+		production is a new item
+CpForm	controlPlanNumber	RUB+		controlPlanNumber is a new item
+CpForm	partNumber	RUB+		partNumber is a new item
+CpForm	partName	RUB+		partName is a new item
+CpForm	supplier	RUB+		supplier is a new item
+CpForm	suplierCode	RUB+		suplierCode is a new item
+CpForm	KeyContact	RUB+		KeyContact is a new item
+CpForm	coreTeam	RUB+		coreTeam is a new item
+CpForm	Suplierapproval	RUB+		Suplierapproval is a new item
+CpForm	otherApproval	RUB+		otherApproval is a new item
+CpForm	created	RUB+		created is a new item
+CpForm	modified	RUB+		modified is a new item
+CpForm	customerEnineering	RUB+		customerEnineering is a new item
+CpForm	customerQuality	RUB+		customerQuality is a new item
+CpForm	dateOtherApprova	RUB+		dateOtherApprova is a new item

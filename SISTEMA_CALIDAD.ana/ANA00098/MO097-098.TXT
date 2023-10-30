@@ -1,0 +1,5 @@
+//MO097-098.TXT ANA00097 TO ANA00098
+calibrations		NFI		new file
+Gauges		NFI		new file
+GoldenSample		NFI		new file
+Pokayokes		NFI		new file

@@ -1,0 +1,2 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+SpecificationsTemp	failureMode	CLEN*		item failureMode is now a key

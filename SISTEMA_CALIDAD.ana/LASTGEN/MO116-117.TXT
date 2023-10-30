@@ -1,0 +1,3 @@
+//MO116-117.TXT ANA00116 TO ANA00117
+MSA_GRR_ATTRIBUTES_HEAD		TAR	825	new record size: 825
+MSA_GRR_ATTRIBUTES_HEAD	Appreciators	RUB+		Appreciators is a new item

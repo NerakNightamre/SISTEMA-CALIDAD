@@ -1,0 +1,3 @@
+//MO041-042.TXT ANA00041 TO ANA00042
+controlPlan		TAR	2436	new record size: 2436
+controlPlan	Value	RUB+		Value is a new item

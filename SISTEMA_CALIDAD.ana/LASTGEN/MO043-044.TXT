@@ -1,0 +1,2 @@
+//MO043-044.TXT ANA00043 TO ANA00044
+Nav	LevelID	CLEN*		item LevelID is now a key

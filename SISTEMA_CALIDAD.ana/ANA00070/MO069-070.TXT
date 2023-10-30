@@ -1,0 +1,4 @@
+//MO069-070.TXT ANA00069 TO ANA00070
+controlPlan		TAR	3148	new record size: 3148
+controlPlan	SIZE	RUB+		SIZE is a new item
+controlPlan	frequecy	RUB+		frequecy is a new item

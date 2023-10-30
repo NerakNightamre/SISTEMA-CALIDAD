@@ -1,0 +1,3 @@
+//MO044-045.TXT ANA00044 TO ANA00045
+controlPlan		TAR	2948	new record size: 2948
+controlPlan	failuremode	RUB+		failuremode is a new item

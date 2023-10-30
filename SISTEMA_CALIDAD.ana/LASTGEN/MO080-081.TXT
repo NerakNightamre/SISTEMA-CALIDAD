@@ -1,0 +1,12 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+Specifications		TAR	268	new record size: 268
+Specifications	productCharacValue	RUB+		productCharacValue is a new item
+Specifications	failureMode	RUB+		failureMode is a new item
+Specifications	potentialCause	RUB+		potentialCause is a new item
+Specifications	characStatement	RUB+		characStatement is a new item
+Specifications	processCharacValue	RUB+		processCharacValue is a new item
+Specifications	TYPE	RUB-		item TYPE deleted
+Specifications	REQUIEREMENT	RUB-		item REQUIEREMENT deleted
+Specifications	POTENCIALF	RUB-		item POTENCIALF deleted
+Specifications	SEVERETY	RUB-		item SEVERETY deleted
+Specifications	PADREID	RUB-		item PADREID deleted

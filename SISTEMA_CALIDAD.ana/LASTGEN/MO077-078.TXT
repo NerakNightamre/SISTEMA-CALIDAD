@@ -1,0 +1,2 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+characteristics		NFI		new file

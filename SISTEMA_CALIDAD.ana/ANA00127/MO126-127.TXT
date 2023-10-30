@@ -1,0 +1,2 @@
+//MO126-127.TXT ANA00126 TO ANA00127
+CpForm	ProyectID	CLEN*		item ProyectID is now a key

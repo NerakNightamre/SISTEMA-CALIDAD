@@ -1,0 +1,9 @@
+//MO112-113.TXT ANA00112 TO ANA00113
+MSA_Linearity_Head		TAR	816	new record size: 816
+MSA_Linearity_Head	DESCRIPCION	RUB+		DESCRIPCION is a new item
+GRR_Attributes_Head		TAR	821	new record size: 821
+GRR_Attributes_Head	DESCRIPCION	RUB+		DESCRIPCION is a new item
+MSA_Stability_Head		TAR	833	new record size: 833
+MSA_Stability_Head	DESCRIPCION	RUB+		DESCRIPCION is a new item
+MSA_BIAS_HEAD		TAR	825	new record size: 825
+MSA_BIAS_HEAD	DESCRIPCION	RUB+		DESCRIPCION is a new item

@@ -1,0 +1,7 @@
+//MO120-121.TXT ANA00120 TO ANA00121
+projectsTemp		NFI		new file
+FailureAnalysisTemp		NFI		new file
+SpecificationsTemp		NFI		new file
+processTemp		NFI		new file
+FailureRiskTemp		NFI		new file
+characteristicsTemp		NFI		new file

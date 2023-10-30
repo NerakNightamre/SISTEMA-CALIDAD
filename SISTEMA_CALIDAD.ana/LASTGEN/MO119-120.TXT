@@ -1,0 +1,3 @@
+//MO119-120.TXT ANA00119 TO ANA00120
+CpForm		TAR	1142	new record size: 1142
+CpForm	ProyectID	RUB+		ProyectID is a new item

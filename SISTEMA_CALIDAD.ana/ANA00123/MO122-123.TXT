@@ -1,0 +1,3 @@
+//MO122-123.TXT ANA00122 TO ANA00123
+Nav		TAR	3127	new record size: 3127
+Nav	projectosID	CNW	4-byte int$String	item projectosID has a new type: 4-byte int

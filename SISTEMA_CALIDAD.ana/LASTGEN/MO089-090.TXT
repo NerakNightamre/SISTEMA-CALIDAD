@@ -1,0 +1,3 @@
+//MO089-090.TXT ANA00089 TO ANA00090
+projects		NFI		new file
+projectos		FIC-	projectos	projectos file deleted

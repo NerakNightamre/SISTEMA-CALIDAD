@@ -1,0 +1,3 @@
+//MO118-119.TXT ANA00118 TO ANA00119
+MSA_GRR_VARIABLES_HEAD		TAR	825	new record size: 825
+MSA_GRR_VARIABLES_HEAD	measure	RUB+		measure is a new item

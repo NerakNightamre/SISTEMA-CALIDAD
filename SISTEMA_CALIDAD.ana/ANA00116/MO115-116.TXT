@@ -1,0 +1,9 @@
+//MO115-116.TXT ANA00115 TO ANA00116
+MSA_GRR_ATTRIBUTES_HEAD		TAR	821	new record size: 821
+MSA_GRR_ATTRIBUTES_HEAD	AttributeID	NNR	BiasID	CAUTION: key BiasID renamed as AttributeID
+MSA_GRR_ATTRIBUTES_HEAD	Parts	RUB+		Parts is a new item
+MSA_GRR_ATTRIBUTES_HEAD	Periods	RUB+		Periods is a new item
+MSA_GRR_ATTRIBUTES_HEAD	referenceValue	RUB-		item referenceValue deleted
+MSA_GRR_ATTRIBUTES_HEAD	TolerancePlus	RUB-		item TolerancePlus deleted
+MSA_GRR_ATTRIBUTES_HEAD	ToleranceMinus	RUB-		item ToleranceMinus deleted
+MSA_GRR_ATTRIBUTES_DATA	Attribute_DataID	NNR	Bias_DataID	CAUTION: key Bias_DataID renamed as Attribute_DataID

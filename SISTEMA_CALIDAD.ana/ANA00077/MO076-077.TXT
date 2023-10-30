@@ -1,0 +1,3 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+FailureRisk		TAR	684	new record size: 684
+FailureRisk	padre	RUB+		padre is a new item

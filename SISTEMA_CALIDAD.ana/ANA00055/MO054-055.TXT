@@ -1,0 +1,3 @@
+//MO054-055.TXT ANA00054 TO ANA00055
+controlPlan		TAR	3153	new record size: 3153
+controlPlan	ID	RUB+		ID is a new key

@@ -1,0 +1,4 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+process		TAR	76	new record size: 76
+process	proyecto	CLEN*		item proyecto is now a key
+process	proyecto	CNW	4-byte int$String	item proyecto has a new type: 4-byte int

@@ -1,0 +1,2 @@
+//MO127-128.TXT ANA00127 TO ANA00128
+SpecificationsTemp	potentialCause	CLEN*		item potentialCause is now a key

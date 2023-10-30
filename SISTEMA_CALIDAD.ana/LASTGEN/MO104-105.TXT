@@ -1,0 +1,2 @@
+//MO104-105.TXT ANA00104 TO ANA00105
+MSA_Linarity_Data	Iterations	CLEN*		item Iterations is now a key

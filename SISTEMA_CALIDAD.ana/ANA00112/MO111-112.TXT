@@ -1,0 +1,3 @@
+//MO111-112.TXT ANA00111 TO ANA00112
+MSA_BIAS_HEAD	BiasID	NNR	StabilityID	CAUTION: key StabilityID renamed as BiasID
+MSA_BIAS_DATA	Bias_DataID	NNR	Stability_DataID	CAUTION: key Stability_DataID renamed as Bias_DataID

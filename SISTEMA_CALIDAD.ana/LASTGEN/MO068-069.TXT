@@ -1,0 +1,5 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+controlPlan		TAR	3046	new record size: 3046
+controlPlan	contorlMethod	NNR	nPreventionMethod	CAUTION: item nPreventionMethod renamed as contorlMethod
+controlPlan	evaluationMethods	NNR	nEvaluationMethods	CAUTION: item nEvaluationMethods renamed as evaluationMethods
+controlPlan	controlMethod	RUB-		item controlMethod deleted

@@ -1,0 +1,4 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+GrrFactor		NFI		new file
+GrrFactor		FIC-	GrrFactor	GrrFactor file deleted
+GrrFactor		FRN		

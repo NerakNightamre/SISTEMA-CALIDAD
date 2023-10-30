@@ -1,0 +1,5 @@
+//MO066-067.TXT ANA00066 TO ANA00067
+controlPlan		TAR	3251	new record size: 3251
+controlPlan	numeroProceso	NNR	nProceso	CAUTION: item nProceso renamed as numeroProceso
+controlPlan	proceso	RUB+		proceso is a new item
+controlPlan	clasificacionCharac	NNR	nCharac	CAUTION: item nCharac renamed as clasificacionCharac

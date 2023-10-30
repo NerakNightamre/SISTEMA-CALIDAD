@@ -1,0 +1,12 @@
+//MO009-010.TXT ANA00009 TO ANA00010
+CATA_FM		TAR	1087	new record size: 1087
+CATA_FM	NUM	CLE-*		item NUM is no longer a key
+CATA_FM	PROCESS	RUB+		PROCESS is a new item
+CATA_FM	MUSTN	RUB+		MUSTN is a new item
+CATA_FM	CMK	RUB+		CMK is a new item
+CATA_FM	EMK	RUB+		EMK is a new item
+CATA_FM	DM	RUB+		DM is a new item
+CATA_FM	NOK	RUB+		NOK is a new item
+CATA_FM	SIZE	RUB+		SIZE is a new item
+CATA_FM	FREQ	RUB+		FREQ is a new item
+CATA_FM	STARTUP	RUB+		STARTUP is a new item

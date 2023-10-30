@@ -1,0 +1,2 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+controlPlan	globalID	CLEN*		item globalID is now a key

@@ -1,0 +1,10 @@
+//MO108-109.TXT ANA00108 TO ANA00109
+MSA_Stability_Head		TAR	682	new record size: 682
+MSA_Stability_Head	StabilityID	NNR	LinearityID	CAUTION: key LinearityID renamed as StabilityID
+MSA_Stability_Head	referenceValue	NNR	Parts	CAUTION: item Parts renamed as referenceValue
+MSA_Stability_Head	Periods	NNR	Appreciators	CAUTION: item Appreciators renamed as Periods
+MSA_Stability_Head	PeriodsValue	RUB+		PeriodsValue is a new item
+MSA_Stability_Head	TolerancePlus	RUB+		TolerancePlus is a new item
+MSA_Stability_Head	ToleranceMinus	RUB+		ToleranceMinus is a new item
+MSA_Stability_Data	Stability_DataID	NNR	Linarity_DataID	CAUTION: key Linarity_DataID renamed as Stability_DataID
+MSA_Stability_Head	TolerancePlus	RRN		

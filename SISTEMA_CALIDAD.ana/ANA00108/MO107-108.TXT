@@ -1,0 +1,8 @@
+//MO107-108.TXT ANA00107 TO ANA00108
+GRR_Attributes_Head		TAR	669	new record size: 669
+GRR_Attributes_Head	Parts	RUB+		Parts is a new item
+GRR_Attributes_Head	Appreciators	RUB+		Appreciators is a new item
+GRR_Attributes_Head	referenceValues	RUB-		item referenceValues deleted
+MSA_Stability_Head		NFI		new file
+MSA_Stability_Data		NFI		new file
+MSA_Stability_Head	ProcessName	RRN		

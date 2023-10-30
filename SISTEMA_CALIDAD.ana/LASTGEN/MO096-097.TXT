@@ -1,0 +1,6 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+Specifications		TAR	272	new record size: 272
+Specifications	proyecto	NNR	projectosID	CAUTION: key projectosID renamed as proyecto
+Specifications	proyecto	CNW	4-byte int$String	item proyecto has a new type: 4-byte int
+characteristics		TAR	276	new record size: 276
+characteristics	proyecto	RUB+		proyecto is a new key

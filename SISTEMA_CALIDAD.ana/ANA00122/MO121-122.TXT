@@ -1,0 +1,4 @@
+//MO121-122.TXT ANA00121 TO ANA00122
+ProjectRequirements		TAR	840	new record size: 840
+ProjectRequirements	Requirement	CLEN*		item Requirement is now a key
+ProjectRequirements	ProyectID	RUB+		ProyectID is a new key

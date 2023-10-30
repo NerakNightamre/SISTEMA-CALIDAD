@@ -1,0 +1,8 @@
+//MO114-115.TXT ANA00114 TO ANA00115
+MSA_GRR_ATTRIBUTES_HEAD		NFI		new file
+MSA_GRR_ATTRIBUTES_DATA		NFI		new file
+GRR_Attributes_Head		FIC-	GRR_Attributes_Head	GRR_Attributes_Head file deleted
+GRR_Attributes_Data		FIC-	GRR_Attributes_Data	GRR_Attributes_Data file deleted
+MSA_GRR_ATTRIBUTES_HEAD		FRN		
+MSA_GRR_ATTRIBUTES_HEAD	ProcessName	RRN		
+MSA_GRR_ATTRIBUTES_HEAD	TolerancePlus	RRN		

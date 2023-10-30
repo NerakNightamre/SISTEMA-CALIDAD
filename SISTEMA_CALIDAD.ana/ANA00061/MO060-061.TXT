@@ -1,0 +1,4 @@
+//MO060-061.TXT ANA00060 TO ANA00061
+controlPlan		TAR	3251	new record size: 3251
+controlPlan	showValue	RUB+		showValue is a new item
+controlPlan	showFailur	RUB+		showFailur is a new item

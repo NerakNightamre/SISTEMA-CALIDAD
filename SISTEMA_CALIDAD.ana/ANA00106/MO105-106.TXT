@@ -1,0 +1,2 @@
+//MO105-106.TXT ANA00105 TO ANA00106
+MSA_Linarity_Data	ReferenceValue	CLEN*		item ReferenceValue is now a key

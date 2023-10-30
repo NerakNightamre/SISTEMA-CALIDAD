@@ -1,0 +1,2 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+processTemp	processNumber	CLEN*		item processNumber is now a key
