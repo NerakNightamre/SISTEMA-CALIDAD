@@ -7,7 +7,7 @@
 \REP_XMLOUT, \REP_IMPORTE
 \wd280, \WD120, \WD110, \WD100
 \XHTML
-
+\SISTEMA_CALIDAD.cpl
 # Archivos generados por WinDev
 \*.fhd, \*.wdw, \*.wdr, \*.fjs, \*.wdi, \*.wdd, \*.wdt, \*.wdr, \*.log, \*.ERR
 
