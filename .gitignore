@@ -33,3 +33,42 @@ config.ini, wdlanguage.ini
 
 # Excluir archivos de configuración de usuarios
 *.ini
+=======
+# Carpetas generadas por WinDev
+\WM, \DE, \REP, \SRV, \Données
+\DATA, \EDT, \Histo, \LOG, \PRINT
+\SYNTHESE, \TESTS, \WEBSERVICES
+\WDDOCS, \WDWEB, \WDWEBDEV, \WEBCOMPS, \WDWEBDEVEN, \WDXML, \IMPORT, \ANALYSE, \REST, \WS, \DOC
+\REP_XMLOUT, \REP_IMPORTE
+\wd280, \WD120, \WD110, \WD100
+\XHTML
+
+# Archivos generados por WinDev
+\*.fhd, \*.wdw, \*.wdr, \*.fjs, \*.wdi, \*.wdd, \*.wdt, \*.wdr, \*.log, \*.ERR
+
+# Carpetas y archivos de caché
+\Cache, \CACHE
+*.swp, *~
+
+# Otros archivos y carpetas temporales
+\Temp, \temp
+*.bak, *.bkp
+*.log
+
+# Excluir archivos de configuración personalizados
+config.ini, wdlanguage.ini
+
+# Excluir archivos de respaldo
+*.bak, *.back
+
+# Excluir archivos de registro
+*.log
+
+# Excluir archivos de bases de datos
+*.mdb, *.ldb, *.mdw, *.laccdb
+
+# Excluir archivos de configuración de usuarios
+*.ini
+
+# Excluir carpeta de sesiones
+SISTEMA_CALIDAD.cpl/
