@@ -71,4 +71,4 @@ config.ini, wdlanguage.ini
 *.ini
 
 # Excluir carpeta de sesiones
-\SISTEMA_CALIDAD.cpl
+SISTEMA_CALIDAD.cpl/
