@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Carpetas generadas por WinDev
 \WM, \DE, \REP, \SRV, \Données
 \DATA, \EDT, \Histo, \LOG, \PRINT
@@ -70,4 +69,6 @@ config.ini, wdlanguage.ini
 
 # Excluir archivos de configuración de usuarios
 *.ini
->>>>>>> 668bbc63d8c706b21084769cd3d8ad78c5128808
+
+# Excluir carpeta de sesiones
+\SISTEMA_CALIDAD.cpl
